@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+  <defs>
+    <mask id="ss-knock">
+      <rect width="48" height="48" fill="#fff"/>
+      <g transform="rotate(-38 24 24)">
+        <rect x="2" y="19.5" width="44" height="9" fill="#000"/>
+      </g>
+    </mask>
+  </defs>
+  <g fill="#11151C" mask="url(#ss-knock)">
+    <rect x="6" y="6" width="4.2" height="36"/>
+    <rect x="14.2" y="6" width="4.2" height="36"/>
+    <rect x="22.4" y="6" width="4.2" height="36"/>
+    <rect x="30.6" y="6" width="4.2" height="36"/>
+    <rect x="38.8" y="6" width="4.2" height="36"/>
+  </g>
+  <g transform="rotate(-38 24 24)" fill="#11151C">
+    <rect x="4" y="21.5" width="40" height="5"/>
+  </g>
+</svg>
